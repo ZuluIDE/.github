@@ -3,7 +3,8 @@
 <div style="text-align:center">
 <img src="https://www.zuluide.com/assets/img/ZuluIDE-RP2040-Compact-Rev2023d.jpg">
 </div>
-ZuluIDE™ is a family of IDE/ATAPI computer storage emulation devices. ISOs/image files are stored on a standard FAT32 or exFAT-formatted SD card. 
+
+[ZuluIDE™](https://www.zuluide.com) is a family of IDE/ATAPI computer storage emulation devices, developed by Rabbit Hole Computing, the creators of ZuluSCSI. ISOs/image files are stored on a standard FAT32 or exFAT-formatted SD card. 
 
 ZuluIDE can emulate:
 
@@ -11,5 +12,4 @@ ZuluIDE can emulate:
 * Iomega Zip 100 drive.
 * Rigid HDDs (WIP)
 
-<a href="https://github.com/ZuluIDE/ZuluIDE-firmware">ZuluIDE</a> firmware is open-source, and licensed under version 3 of the GNU General Public License
-
+[ZuluIDE firmware](https://github.com/ZuluIDE/ZuluIDE-firmware) open-source, and licensed under version 3 of the GNU General Public License.
