@@ -12,4 +12,4 @@ ZuluIDE can emulate:
 * Iomega Zip 100 drive.
 * Rigid HDDs (WIP)
 
-[ZuluIDE firmware](https://github.com/ZuluIDE/ZuluIDE-firmware) open-source, and licensed under version 3 of the GNU General Public License.
+[ZuluIDE firmware](https://github.com/ZuluIDE/ZuluIDE-firmware) is open-source, and licensed under version 3 of the GNU General Public License.
