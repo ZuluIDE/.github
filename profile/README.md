@@ -10,6 +10,6 @@ ZuluIDE can emulate:
 
 * IDE/ATAPI CD-ROM drive. Images can be any size, including multi-gigabyte DVD-sized images, such as those larger than ~700MB
 * Iomega Zip 100 drive.
-* Rigid HDDs (WIP)
+* Rigid HDDs (Work-in-progress/alpha as of firmware v2024.08.15)
 
 [ZuluIDE firmware](https://github.com/ZuluIDE/ZuluIDE-firmware) is open-source, and licensed under version 3 of the GNU General Public License.
