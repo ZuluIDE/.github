@@ -1,7 +1,7 @@
 ## ZuluIDE - The IDE/ATAPI emulator for everyone
 
 <div style="text-align:center">
-<img src="https://www.zuluide.com/assets/img/ZuluIDE-RP2040-Compact-Rev2023d.jpg">
+<img src="https://www.zuluide.com/assets/img/ZuluIDE-RP2040-Compact-Rev2024a.jpg">
 </div>
 
 [ZuluIDE™](https://www.zuluide.com) is a family of IDE/ATAPI computer storage emulation devices, developed by Rabbit Hole Computing, the creators of ZuluSCSI. ISOs/image files are stored on a standard FAT32 or exFAT-formatted SD card. 
