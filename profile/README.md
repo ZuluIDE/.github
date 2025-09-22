@@ -1,4 +1,4 @@
-## ZuluIDE - The IDE/ATAPI emulator for everyone
+## ZuluIDE - The Parallel ATA/IDE Optical Disc Emulator for everyone
 ![ZuluIDE V2](https://www.zuluide.com/assets/img/ZuluIDE-V2-Compact-Rev2025a-front-iso-nobg.webp)
 <div style="text-align:center">
 
