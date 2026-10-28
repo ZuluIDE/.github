@@ -1,5 +1,5 @@
-## ZuluIDE - The Parallel ATA/IDE Optical Disc Emulator for everyone
-![ZuluIDE V2](https://www.zuluide.com/assets/img/ZuluIDE-V2-Compact-Rev2025a-front-iso-nobg.webp)
+## ZuluIDE - The Parallel ATA/IDE Optical Disc Emulator for everyone - Available Now
+![ZuluIDE V2](https://www.zuluide.com/assets/img/ZuluIDE-V2-2.5in-dual-Rev-2026a-topDown-with-CD-Audio-Header-web.jpg)
 <div style="text-align:center">
 
 </div>
